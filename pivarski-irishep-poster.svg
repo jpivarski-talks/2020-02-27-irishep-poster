@@ -877,9 +877,9 @@
      inkscape:window-height="1012"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.20859375"
-     inkscape:cx="1613.9941"
-     inkscape:cy="1580.905"
+     inkscape:zoom="0.58999222"
+     inkscape:cx="2384.698"
+     inkscape:cy="2899.3905"
      inkscape:window-x="1920"
      inkscape:window-y="32"
      inkscape:window-maximized="1"
@@ -1210,7 +1210,7 @@
      id="tspan2505"
      x="43.467907"
      y="-2411.304"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:normal;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;vector-effect:none;fill:#8a83be;fill-opacity:1;stroke:none;stroke-width:0.99999994;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1">Particle physics has always required big datasets</tspan><tspan
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:normal;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;vector-effect:none;fill:#8a83be;fill-opacity:1;stroke:none;stroke-width:0.99999994;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1">Particle physicists have always required big datasets</tspan><tspan
      sodipodi:role="line"
      x="43.467907"
      y="-2366.304"
@@ -1228,7 +1228,7 @@
      x="44.18861"
      y="-2300.6328"
      style="stroke-width:0.75"
-     id="tspan2537">Figure from a 45 year old physics-software manual:</tspan></text>
+     id="tspan2537">Figure from a 45-year old physics-software manual:</tspan></text>
 
 <text
    transform="scale(1,-1)"
@@ -2769,9 +2769,10 @@
        id="path534" /></g><g
      id="patch_5-4"><path
        inkscape:connector-curvature="0"
-       d="M 54,144 H 388.8"
+       d="M 46.590168,144 H 388.8"
        style="fill:none;stroke:#000000;stroke-width:0.80000001;stroke-linecap:square;stroke-linejoin:miter"
-       id="path537" /></g><g
+       id="path537"
+       sodipodi:nodetypes="cc" /></g><g
      id="patch_6-6"><path
        inkscape:connector-curvature="0"
        d="M 46.590168,21.6 H 388.8"
@@ -3235,7 +3236,18 @@
        x="143.69354"
        y="54.936466"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.11474228px;line-height:1.25;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="tspan4853">on Scientific Linux (CERN/Fermilab)</tspan></text>
+       id="tspan11332">on Scientific Linux (CERN/Fermilab)</tspan></text>
+<text
+     id="text11342"
+     y="65.768806"
+     x="144.05156"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.94878578px;line-height:1.25;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#808080;fill-opacity:1;stroke:none;stroke-width:0.62518644;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     xml:space="preserve"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.94878578px;line-height:1.25;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;vector-effect:none;fill:#808080;fill-opacity:1;stroke:none;stroke-width:0.62518644;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       y="65.768806"
+       x="144.05156"
+       sodipodi:role="line"
+       id="tspan11346">(May include repeated downloads in batch jobs.)</tspan></text>
 </g><text
    transform="scale(1,-1)"
    id="text3566"
