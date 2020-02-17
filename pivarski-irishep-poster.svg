@@ -877,9 +877,9 @@
      inkscape:window-height="1012"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.29499611"
-     inkscape:cx="2118.948"
-     inkscape:cy="1005.317"
+     inkscape:zoom="0.4171875"
+     inkscape:cx="1547.3336"
+     inkscape:cy="2171.2043"
      inkscape:window-x="1920"
      inkscape:window-y="32"
      inkscape:window-maximized="1"
@@ -895,7 +895,7 @@
      inkscape:label="IRIS-HEP-poster-template"
      transform="matrix(1.3333333,0,0,-1.3333333,0,3840)"><path
    style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#dad8eb;stroke-width:11.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-   d="m 1305,1306.4586 0,-1160.61655"
+   d="m 1305,1297.5602 0,-1151.71815"
    id="path1021"
    inkscape:connector-curvature="0"
    sodipodi:nodetypes="cc" /><rect
@@ -970,7 +970,7 @@
      id="tspan40"
      x="0"
      y="0"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans'">Ragged, Jagged, Awkward Arrays</tspan></text>
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans'">Analyzing Data with Awkward Arrays</tspan></text>
 
 
 </g></g><g
@@ -1096,7 +1096,7 @@
 
 <path
    style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#dad8eb;stroke-width:11.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-   d="m 1080,2281.0487 0,303.8713"
+   d="m 1080,2292.9662 0,291.9538"
    id="path1005"
    inkscape:connector-curvature="0"
    sodipodi:nodetypes="cc" /><text
@@ -1125,10 +1125,10 @@
      id="flowPara1069" /></flowRoot><ellipse
    style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#dad8eb;stroke-width:11.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
    id="path1818"
-   cx="2122.873"
-   cy="36.676311"
+   cx="2121.5532"
+   cy="34.503281"
    transform="matrix(0.51909909,0.85471407,0.85471407,-0.51909909,0,0)"
-   rx="451.0629"
+   rx="465.03406"
    ry="588.12958" /><g
    id="g1800"
    style="opacity:1;vector-effect:none;fill:#8a83be;fill-opacity:1;stroke:none;stroke-width:0.99999994;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -1214,7 +1214,7 @@
 <path
    inkscape:connector-curvature="0"
    id="path1851"
-   d="M 653.26734,1654.92 0,1654.92"
+   d="M 641.03201,1654.92 0,1654.92"
    style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#dad8eb;stroke-width:11.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
    sodipodi:nodetypes="cc" /><text
    xml:space="preserve"
@@ -4296,7 +4296,7 @@
      style="stroke-width:0.75" /></text>
 <text
    xml:space="preserve"
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:38.83454895px;line-height:1.25;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.60678983"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:38.83454895px;line-height:1.25;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.60678983;"
    x="1901.8683"
    y="-1629.2711"
    id="text4863"
@@ -4305,21 +4305,21 @@
      id="tspan4861"
      x="1901.8683"
      y="-1629.2711"
-     style="font-size:56.0000014px;text-align:center;text-anchor:middle;stroke-width:0.60678983">But…</tspan><tspan
+     style="font-size:56.0000014px;text-align:center;text-anchor:middle;stroke-width:0.60678983;fill:#ff0000;">But…</tspan><tspan
      sodipodi:role="line"
      x="1901.8683"
      y="-1569.2711"
-     style="font-size:48px;text-align:center;text-anchor:middle;stroke-width:0.60678983"
+     style="font-size:48px;text-align:center;text-anchor:middle;stroke-width:0.60678983;fill:#ff0000;"
      id="tspan4883">NumPy does not</tspan><tspan
      sodipodi:role="line"
      x="1901.8683"
      y="-1509.2711"
-     style="font-size:48px;text-align:center;text-anchor:middle;stroke-width:0.60678983"
+     style="font-size:48px;text-align:center;text-anchor:middle;stroke-width:0.60678983;fill:#ff0000;"
      id="tspan4891">work on nested,</tspan><tspan
      sodipodi:role="line"
      x="1901.8683"
      y="-1449.2711"
-     style="font-size:48px;text-align:center;text-anchor:middle;stroke-width:0.60678983"
+     style="font-size:48px;text-align:center;text-anchor:middle;stroke-width:0.60678983;fill:#ff0000;"
      id="tspan4881">variable-sized data!</tspan></text>
 <g
    id="g11200"
@@ -5940,7 +5940,13 @@
      id="tspan12395">   3,                      4,      5,      7</tspan></text>
 <g
    id="g12476"
-   transform="translate(10.566998)"><g
+   transform="translate(10.566998)"><circle
+     style="opacity:0.5;vector-effect:none;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#dad8eb;stroke-width:3.75;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     id="path12510"
+     cx="1460.6422"
+     cy="-289.64743"
+     r="105.69689"
+     transform="scale(1,-1)" /><g
      id="g21"
      transform="matrix(0.75000002,0,0,-0.75000002,1247.66,423.1541)"
      class="highcharts-series highcharts-series-0"
@@ -5948,34 +5954,34 @@
        id="path13"
        d="M 365.39039,287.57171 A 136.5,136.5 0 1 1 352.19648,59.77943 l -68.22029,118.22961 z"
        inkscape:connector-curvature="0"
-       style="fill:#ffb380;stroke:#ffffff;stroke-width:1;stroke-linejoin:round" /><path
+       style="fill:#ffdd55;stroke:#ffffff;stroke-width:1;stroke-linejoin:round" /><path
        id="path15"
        d="M 352.31467,59.847709 A 136.5,136.5 0 0 1 405.94908,239.28599 L 283.97619,178.00904 Z"
        inkscape:connector-curvature="0"
-       style="fill:#8dd35f;stroke:#ffffff;stroke-width:1;stroke-linejoin:round" /><path
+       style="fill:#80ffb3;stroke:#ffffff;stroke-width:1;stroke-linejoin:round" /><path
        id="path17"
        d="m 405.88774,239.40793 a 136.5,136.5 0 0 1 -34.15918,43.15623 L 283.97619,178.00904 Z"
        inkscape:connector-curvature="0"
-       style="fill:#ffe680;stroke:#ffffff;stroke-width:1;stroke-linejoin:round" /><path
+       style="fill:#55ddff;stroke:#ffffff;stroke-width:1;stroke-linejoin:round" /><path
        id="path19"
        d="m 371.62396,282.65185 a 136.5,136.5 0 0 1 -6.10375,4.82327 L 283.97619,178.00904 Z"
        inkscape:connector-curvature="0"
        style="fill:#ff00ff;stroke:#ffffff;stroke-width:1;stroke-linejoin:round" /></g><text
      transform="scale(1,-1)"
      id="text12439"
-     y="-355.05615"
-     x="1411.6079"
+     y="-353.78494"
+     x="1407.1587"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;line-height:1.25;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.75"
      xml:space="preserve"><tspan
        style="text-align:center;text-anchor:middle;stroke-width:0.75"
-       y="-355.05615"
-       x="1411.6079"
+       y="-353.78494"
+       x="1407.1587"
        id="tspan12437"
        sodipodi:role="line">embarrassingly</tspan><tspan
        id="tspan12441"
        style="text-align:center;text-anchor:middle;stroke-width:0.75"
-       y="-332.55615"
-       x="1411.6079"
+       y="-331.28494"
+       x="1407.1587"
        sodipodi:role="line">parallel (74)</tspan></text>
 <text
      xml:space="preserve"
@@ -6012,7 +6018,7 @@
        x="1538.3495"
        y="-314.60672"
        style="text-align:center;text-anchor:middle;stroke-width:0.75"
-       id="tspan12455">increasing</tspan><tspan
+       id="tspan12455">counting</tspan><tspan
        id="tspan12459"
        sodipodi:role="line"
        x="1538.3495"
@@ -6052,4 +6058,26 @@
      x="1633.6975"
      sodipodi:role="line"
      id="tspan12496">good candidates for GPU acceleration.</tspan></text>
+<text
+   xml:space="preserve"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:normal;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#8a83be;fill-opacity:1;stroke:none;stroke-width:0.99999994;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+   x="606.52332"
+   y="-1946.0437"
+   id="text12502"
+   transform="scale(1,-1)"><tspan
+     id="tspan12500"
+     sodipodi:role="line"
+     x="606.52332"
+     y="-1946.0437"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:normal;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;vector-effect:none;fill:#8a83be;fill-opacity:1;stroke:none;stroke-width:0.99999994;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1">A library for analyzing arrays of nested, variable-sized</tspan><tspan
+     sodipodi:role="line"
+     x="606.52332"
+     y="-1901.0437"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:normal;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;vector-effect:none;fill:#8a83be;fill-opacity:1;stroke:none;stroke-width:0.99999994;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     id="tspan12506">data, including arbitrary-length lists, records, mixed</tspan><tspan
+     sodipodi:role="line"
+     x="606.52332"
+     y="-1856.0437"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:normal;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;vector-effect:none;fill:#8a83be;fill-opacity:1;stroke:none;stroke-width:0.99999994;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     id="tspan12508">types, and pointers, with NumPy-like idioms.</tspan></text>
 </g></svg>
